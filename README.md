@@ -16,6 +16,6 @@ enllaçades a l'arxiu d'estils gràcies a la propietat css "background-image".
  
 * Llista de Control Panel
 
-# Nota: No ens ha sigut possible acabar la tasca i ens ha quedat aquest arxiu incomplet.
+# Nota: No ens ha sigut possible acabar la redacció d'aquest arxiu, i per tant queda incomplet.
 
 
